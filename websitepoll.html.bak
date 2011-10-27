@@ -1,0 +1,23 @@
+<html>
+<head>
+<link href="/gwg/pollstyle.css" type="text/css" rel="stylesheet"> 
+<link rel="icon" type="image/jpg" href="http://www.thegoodwebguide.co.uk/favicon1.jpg"> 
+</head>
+<body>
+<div id="pollbox" >
+<img src="http://www.thegoodwebguide.co.uk/images/goodwebguide_logo.jpg"</img>
+<br />
+Please select your choice for the website of the year:
+<br />
+<br />
+
+<form method="get" action="poll.php">
+<input type="radio" name="Website" value="Amazon.com" /> Amazon.com<br />
+<input type="radio" name="Website" value="Ebay.com" /> Ebay.com<br />
+<input type="radio" name="Website" value="Youtube.com" /> Youtube.com<br />
+<input type="radio" name="Website" value="Beatsdigital.com" /> Beatsdigital.com<br /><br />
+<input type="submit" value="Next" />
+</form>
+</div>
+</body>
+</hmtl>
