@@ -11,7 +11,7 @@ with (field)
   dotpos=value.lastIndexOf(".");
   if (apos<1||dotpos-apos<2)
     {alert(alerttxt);return false;}
-  else {return true;}
+  else {return true;} //somecode
   }
 }
 
