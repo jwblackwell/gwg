@@ -11,7 +11,7 @@ Please note that you can only vote once.<h3>
 <script language="javascript"> 
 <!-- 
 setTimeout("self.close();",50000) 
-//--> 
+///--> 
 </script>
 
 <body>
